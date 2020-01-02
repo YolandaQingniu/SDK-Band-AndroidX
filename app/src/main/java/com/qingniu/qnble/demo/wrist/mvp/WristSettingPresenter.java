@@ -510,7 +510,9 @@ public class WristSettingPresenter {
         if (observable == null)
 
         {
-            ToastMaker.show(mView.getCtx(), mContext.getResources().getString(R.string.set_function_exception));
+            if (item.getType() != WristSettingConst.SETTING_JUMP) {
+                ToastMaker.show(mView.getCtx(), mContext.getResources().getString(R.string.set_function_exception));
+            }
             return;
         }
         observable.subscribe(new Consumer<WristSettingItem>()
