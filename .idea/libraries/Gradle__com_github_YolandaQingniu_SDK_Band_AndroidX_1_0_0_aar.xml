@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.YolandaQingniu:SDK-Band-AndroidX:1.0.0@aar">
+    <CLASSES>
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SDK-Band-AndroidX-1.0.0.aar/37bb5fa878e6b2e2df37a15b5c775e9e/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SDK-Band-AndroidX-1.0.0.aar/37bb5fa878e6b2e2df37a15b5c775e9e/jars/libs/qnwristsdkX-1.0.0.jar!/" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/SDK-Band-AndroidX-1.0.0.aar/37bb5fa878e6b2e2df37a15b5c775e9e/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

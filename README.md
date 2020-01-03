@@ -53,7 +53,6 @@
      <service android:name="com.qingniu.scale.measure.ble.ScaleBleService" android:permission="android.permission.BIND_JOB_SERVICE"/>
      <service android:name="com.qingniu.scale.measure.broadcast.ScaleBroadcastService" android:permission="android.permission.BIND_JOB_SERVICE"/>
      ```
-* SDK中使用到了v4包的资源，开发者项目中需要引入v4包的资源
 
 ## 注意事项
 - targetSdkVersion 在28及以上，需要先获取定位权限，才能扫描到设备，需要开发者自己申请
